@@ -42,7 +42,7 @@ time.sleep(1)
 search = driver.find_element_by_name('btnNext').click()
 time.sleep(1)
 search = driver.find_element_by_name('login_password')
-search.send_keys('Password123')
+search.send_keys('fuck you youre not stealing my password')
 search = driver.find_element_by_name('btnLogin').click()
 time.sleep(3)
 search = driver.find_elements_by_id('payment-submit-btn')
@@ -95,7 +95,7 @@ time.sleep(2)
 #search.send_keys('ericiskooll@gmail.com')
 
 #search = driver.find_element_by_id('fld-p1')
-#search.send_keys('Ericiskoo1')
+#search.send_keys('quit tryna steal my password asspussy')
 
 #search = driver.find_element_by_xpath('/html/body/div[1]/div/section/main/div[1]/div/div/div/div/form/div[3]/button').click()    #click login
 
